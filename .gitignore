@@ -7,3 +7,4 @@ preview-server.log
 artifacts/browser_profile/
 
 *.tmp
+.DS_Store
